@@ -1,0 +1,8 @@
+
+Login Results:
+Login successful for user: standard_user
+Login failed for user: locked_out_user - Reason: Epic sadface: Sorry, this user has been locked out.
+Login successful for user: problem_user
+Login successful for user: performance_glitch_user
+Login successful for user: error_user
+Login successful for user: visual_user
